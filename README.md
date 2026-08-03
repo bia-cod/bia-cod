@@ -2,7 +2,8 @@
 
 # 🐆✨ Bem-vindo ao meu perfil ✨🐆
 
-<img src="https://i.pinimg.com/736x/26/52/4b/26524bdd79e1919c29a2dce28f6ab604.jpg" width="220">
+<img width="1199" height="675" alt="image" src="https://github.com/user-attachments/assets/fc57097b-907f-4d2b-a801-4994ed96a5db" />
+
 
 ### 「 *Stay Swag.* 」
 > *"Não sigo tendências, eu crio as minhas."*
