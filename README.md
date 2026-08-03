@@ -7,7 +7,7 @@
 ### 「 *Stay Swag.* 」
 > *"Não sigo tendências, eu crio as minhas."*
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Python+Developer;Future+Ethical+Hacker;Always+Learning..." />
+<img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=30&duration=3200&pause=1200&color=C49A6C&center=true&vCenter=true&width=750&lines=I+Got+Mad+Swag+%F0%9F%90%86;%23SWAG" />
 
 </div>
 
