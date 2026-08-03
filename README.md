@@ -2,7 +2,7 @@
 
 # 🐆✨ Bem-vindo ao meu perfil ✨🐆
 
-<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif](https://i.pinimg.com/736x/26/52/4b/26524bdd79e1919c29a2dce28f6ab604.jpg" width="220">
+<img src="https://i.pinimg.com/736x/26/52/4b/26524bdd79e1919c29a2dce28f6ab604.jpg" width="220">
 
 ### 「 *Stay Swag.* 」
 > *"Não sigo tendências, eu crio as minhas."*
