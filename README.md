@@ -1,7 +1,5 @@
 <div align="center">
 
-# 🐆✨ Bem-vindo ao meu perfil ✨🐆
-
 <img width="1199" height="675" alt="image" src="https://github.com/user-attachments/assets/fc57097b-907f-4d2b-a801-4994ed96a5db" />
 
 
