@@ -35,7 +35,7 @@
 
 <div align="center">
 
-### 🐆💖 *"Se comporta pudizinho."* 💖🐆
+### 🐆
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
 
